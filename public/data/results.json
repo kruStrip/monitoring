@@ -1,6 +1,59 @@
 {
   "history": [
     {
+      "time": "2026-11-20T02:12:32.596Z",
+      "checks": [
+        {
+          "id": "angular-react",
+          "ok": true,
+          "status": 200,
+          "ms": 332,
+          "error": "",
+          "title": "Справочник по Angular и React · Макаров Максим Николаевич"
+        },
+        {
+          "id": "git",
+          "ok": true,
+          "status": 200,
+          "ms": 13,
+          "error": "",
+          "title": "Справочник по Git и GitHub · Макаров Максим Николаевич"
+        },
+        {
+          "id": "mongodb",
+          "ok": true,
+          "status": 200,
+          "ms": 12,
+          "error": "",
+          "title": "Справочник по MongoDB · Макаров Максим Николаевич"
+        },
+        {
+          "id": "english",
+          "ok": true,
+          "status": 200,
+          "ms": 64,
+          "error": "",
+          "title": "Разговорный английский · Макаров Максим Николаевич"
+        },
+        {
+          "id": "sysprog",
+          "ok": true,
+          "status": 200,
+          "ms": 283,
+          "error": "",
+          "title": "Справочник по системному программированию · Макаров Максим Николаевич"
+        },
+        {
+          "id": "staryy",
+          "ok": false,
+          "status": 404,
+          "ms": 28,
+          "error": "",
+          "title": ""
+        }
+      ]
+    },
+    {
       "time": "2026-11-19T02:28:12.067Z",
       "checks": [
         {
